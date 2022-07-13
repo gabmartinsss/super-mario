@@ -15,10 +15,8 @@
 }
 button{
     font-family: 'Press Start 2P', cursive;
-    font-size: 85%;
-    position: absolute;
-    bottom: 0;
-    right: 638.2px;
+    font-size: 13px;
+    margin: 50vh auto;
     background: none;
     color: white;
     border: none;
